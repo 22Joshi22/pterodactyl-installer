@@ -16,7 +16,7 @@ Read more about [Pterodactyl](https://pterodactyl.io/) here. This script is not 
 - Automatic installation of the Pterodactyl Panel (dependencies, database, cronjob, nginx).
 - Automatic installation of the Pterodactyl Wings (Docker, systemd).
 - Panel: (optional) automatic configuration of Let's Encrypt.
-- Panel: (optional) automatic configuration of firewall.
+- Panel: (optional) automatic configuration of firewall using (UncomplicatedFirewall).
 - Uninstallation support for both panel and wings.
 
 ## Help and support
